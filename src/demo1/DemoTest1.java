@@ -6,5 +6,12 @@ public class DemoTest1 {
 		//Hello guys this is Freshta here
 		
 		System.out.println("Today was a tough day");
+		
+	System.out.println("logic is coming");
+			
+		}
+		
+		
+		
 	}
-}
+
